@@ -8,3 +8,8 @@ cache/
 pretrained/
 checkpoints/
 !.gitignore
+*.tar
+*.mp4
+*.jpg
+*.jpeg
+*.png
